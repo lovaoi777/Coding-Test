@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "48753d8e7a8fe718",
+    "type": "split",
+    "children": [
+      {
+        "id": "99ada6e116ab6955",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "47d6eb69565b6ded",
+    "type": "split",
+    "children": [
+      {
+        "id": "23c43fdf731311ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec8bccadf12bc9b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "da4c32f4c4281f1b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e858d387a1d717a5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "10c2a14a172f2931",
+    "type": "split",
+    "children": [
+      {
+        "id": "14e612ff36a92954",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89fdda61b5e5e1a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "93a0b45ecc1ae9d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "93a71c0b3d7149dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c875b5e5bf9547f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ec8bccadf12bc9b9",
+  "lastOpenFiles": [
+    "무제노트 2.md",
+    "무제노트 1.md",
+    "무제노트.md",
+    "KaKao Coding Test lv1.md"
+  ]
+}
